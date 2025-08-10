@@ -1,12 +1,13 @@
 # Meeso_Sales_Analysis_Dashboard
 Designed and developed an interactive sales dashboard for an e-commerce platform (Meesho) to analyze sales performance, customer behavior, and product trends.
 
+
 **Dataset Link:**
 - <a href="https://www.kaggle.com/datasets/sahilr05/meesho-orders">Meesho order data</a>
 
 Key Responsibilities and Achievements:
 
-Data Collection and Preparation:
+## Data Collection and Preparation:
 
 Gathered sales data, including order details, customer demographics, product categories, and revenue metrics.
 
@@ -14,7 +15,7 @@ Cleaned and transformed raw data using Power Query to ensure data accuracy and c
 
 Created calculated columns and measures using DAX (Data Analysis Expressions) for advanced analytics.
 
-Dashboard Design and Development:
+## Dashboard Design and Development:
 
 Built an interactive and user-friendly dashboard using Power BI to visualize key performance indicators (KPIs).
 
@@ -24,16 +25,22 @@ Implemented filters and slicers for dynamic data exploration (e.g., by date, reg
 
 Key Metrics and Insights:
 
-Tracked metrics such as total sales, average order value, customer acquisition rate, and top-performing products.
+## Tracked metrics such as total sales, average order value, customer acquisition rate, and top-performing products.
 
 Identified trends and patterns to provide actionable insights for improving sales strategies and inventory management.
 
-Tools and Technologies:
+## Tools and Technologies:
 
 Power BI, Power Query, DAX, Excel.
 
-Outcome:
+## Outcome:
 
 Delivered a comprehensive dashboard that enabled stakeholders to monitor business performance in real-time.
 
 Improved decision-making processes by providing data-driven insights into sales and customer behavior.
+
+
+## Author - Nishit Kumar
+This project is part of my portfolio, showcasing the Power Bi skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+Thank you for your support, and I look forward to connecting with you!
