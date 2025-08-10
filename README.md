@@ -1,6 +1,7 @@
 # Meeso_Sales_Analysis_Dashboard
 Designed and developed an interactive sales dashboard for an e-commerce platform (Meesho) to analyze sales performance, customer behavior, and product trends.
 
+!(Meesho)[https://github.com/yadavnishit/Meesho_Sales_Analysis_Dashboard/blob/main/Meesho-682x435.avif]
 
 **Dataset Link:**
 - <a href="https://www.kaggle.com/datasets/sahilr05/meesho-orders">Meesho order data</a>
